@@ -24,6 +24,13 @@
 
         />
 
+    <Button
+        android:id="@+id/backendpoints"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/toast_btn"
+        android:text="@string/button_text2"/>
+
     <com.google.android.gms.ads.AdView
         android:id="@+id/adView"
         android:layout_width="wrap_content"
